@@ -32,15 +32,14 @@ I am a programmer and software engineer. We will create applications, algorithm 
 
 ---
 
----
-
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damim_X_Adi&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Damim_X_Adi&layout=compact&theme=dark)
 
----
+![Metrics](https://metrics.lecoq.io/Damim_X_Adi)
 
+---
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YOUR_ID)
