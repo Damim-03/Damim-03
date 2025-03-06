@@ -32,12 +32,13 @@ I am a programmer and software engineer. We will create applications, algorithm 
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damim_X_Adi&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damim-03&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Damim_X_Adi&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Damim-03&layout=compact&theme=dark)
 
-![Metrics](https://metrics.lecoq.io/Damim_X_Adi)
+![Metrics](https://metrics.lecoq.io/Damim-03)
+
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damim-03&theme=dark)
 
 ---
 ### 🌐 Connect with Me
