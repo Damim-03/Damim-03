@@ -30,15 +30,13 @@ I am a programmer and software engineer. We will create applications, algorithm 
 <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
 </p>
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Damim-03&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Damim-03&layout=compact&theme=dark)
-
-![Metrics](https://metrics.lecoq.io/Damim-03)
-
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damim-03&theme=dark)
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Damim-03&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damim-03&layout=compact&theme=radical" height="150"/>
+  <img src="https://metrics.lecoq.io/Damim-03" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damim-03&theme=radical" height="150"/>
+</p>
 
 ---
 ### 🌐 Connect with Me
