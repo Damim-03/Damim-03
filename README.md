@@ -41,6 +41,12 @@ I am a programmer and software engineer. We will create applications, algorithm 
 ---
 
 ### ⚡ PageSpeed Insights
+<p align="center">
+  <a href="https://pagespeed.web.dev/">
+    <img src="https://github.com/user-attachments/assets/0e2b770f-0a82-4e26-9d62-9d8c87718c6c" width="600" height="200"/>
+  </a>
+</p>
+
 [![PageSpeed Insights](https://img.shields.io/badge/PageSpeed-4285F4?style=flat&logo=google&logoColor=white)](https://pagespeed.web.dev/)
 
 ---
