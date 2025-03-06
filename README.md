@@ -1,8 +1,4 @@
 <img src="https://github.com/user-attachments/assets/0e2b770f-0a82-4e26-9d62-9d8c87718c6c" width="900" height="300"> <br/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Vue.js_Logo_2.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" width="40" height="40"/>
-
 
 ## 👋 Hi There, I’m @Damim_X_Adi
 I am a programmer and software engineer. We will create applications, algorithm solutions, web page designs, and smartphone applications. We will use famous programming languages such as **React, React Native, TypeScript, JavaScript, Node.js, C, C++, and others**.
@@ -17,15 +13,21 @@ I am a programmer and software engineer. We will create applications, algorithm 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberry%20pi&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google%20cloud&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+### 🎯 Mastered Technologies and Topics
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Vue.js_Logo_2.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Node.js_logo.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Kotlin_Icon_2021.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Raspberry_Pi_Logo.svg" width="40" height="40"/>
 
 ---
 
