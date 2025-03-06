@@ -1,4 +1,8 @@
 <img src="https://github.com/user-attachments/assets/0e2b770f-0a82-4e26-9d62-9d8c87718c6c" width="900" height="300"> <br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Vue.js_Logo_2.svg" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" width="40" height="40"/>
+
 
 ## 👋 Hi There, I’m @Damim_X_Adi
 I am a programmer and software engineer. We will create applications, algorithm solutions, web page designs, and smartphone applications. We will use famous programming languages such as **React, React Native, TypeScript, JavaScript, Node.js, C, C++, and others**.
