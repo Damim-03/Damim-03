@@ -18,17 +18,17 @@ I am a programmer and software engineer. We will create applications, algorithm 
 
 ### 🎯 Mastered Technologies and Topics
 <p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Vue.js_Logo_2.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Node.js_logo.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Kotlin_Icon_2021.svg" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Raspberry_Pi_Logo.svg" width="40" height="40"/>
+<a href="https://www.javascript.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://vuejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/></a>
+<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></a>
+<a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
+<a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+<a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
+<a href="https://socket.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40"/></a>
+<a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/></a>
+<a href="https://kotlinlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/></a>
+<a href="https://www.raspberrypi.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/></a>
 </p>
 
 ---
