@@ -17,6 +17,7 @@ I am a programmer and software engineer. We will create applications, algorithm 
 ---
 
 ### 🎯 Mastered Technologies and Topics
+<p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Vue.js_Logo_2.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" width="40" height="40"/>
@@ -28,6 +29,7 @@ I am a programmer and software engineer. We will create applications, algorithm 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Kotlin_Icon_2021.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Raspberry_Pi_Logo.svg" width="40" height="40"/>
+</p>
 
 ---
 
