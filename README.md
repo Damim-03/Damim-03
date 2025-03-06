@@ -18,10 +18,17 @@ I am a programmer and software engineer. We will create applications, algorithm 
 
 ### 🎯 Mastered Technologies and Topics
 <p align="center">
-<a href="https://pagespeed.web.dev/"><img src="https://www.gstatic.com/pagespeed/insights/pwa-icon.svg" width="40" height="40"/></a>
+<a href="https://www.javascript.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+<a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+<a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
+<a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></a>
+<a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://kotlinlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/></a>
+<a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
+<a href="https://vitejs.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40"/></a>
+<a href="https://socket.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40"/></a>
 </p>
-
----
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -32,7 +39,6 @@ I am a programmer and software engineer. We will create applications, algorithm 
 </p>
 
 ---
-
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_PROFILE)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YOUR_ID)
@@ -40,9 +46,5 @@ I am a programmer and software engineer. We will create applications, algorithm 
 
 ---
 
-### ⚡ PageSpeed Insights
-[![PageSpeed Insights](https://img.shields.io/badge/PageSpeed-4285F4?style=flat&logo=google&logoColor=white)](https://pagespeed.web.dev/)
-
----
-
 ### 💞️ Thank You So Much!
+can you add pageSpeed insights
