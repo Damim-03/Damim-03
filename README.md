@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/MyProf.jpg" width="1680" height="850" alt="Profile Image">
+<img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/MyProf.jpg" width="1640" height="856" alt="Profile Image">
 
 
 ## 👋 Hi There, I’m @Damim_X_Adi
