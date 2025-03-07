@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/0e2b770f-0a82-4e26-9d62-9d8c87718c6c" width="900" height="300"> <br/>
+<img src="/MyProf.jpg" width="1640" height="850" alt="Profile Image">
 
 ## 👋 Hi There, I’m @Damim_X_Adi
 I am a programmer and software engineer. We will create applications, algorithm solutions, web page designs, and smartphone applications. We will use famous programming languages such as **React, React Native, TypeScript, JavaScript, Node.js, C, C++, and others**.
