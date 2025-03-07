@@ -1,4 +1,5 @@
-![Profile Image](https://raw.githubusercontent.com/Damim-03/Damim-03main/MyProf.jpg)
+<img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/MyProf.jpg" width="300" height="300" alt="Profile Image">
+
 
 
 ## 👋 Hi There, I’m @Damim_X_Adi
