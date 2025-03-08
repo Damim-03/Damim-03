@@ -48,11 +48,10 @@ I am a programmer and software engineer. We will create applications, algorithm 
 ---
 
 ### 💞️ Thank You So Much!
-![Kuru Kuru](https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif)
+<img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="100">
+<img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="100">
+<img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="100">
 
-![Kuru Kuru](https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif)
-
-![Kuru Kuru](https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif)
 
 
 
