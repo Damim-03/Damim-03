@@ -40,9 +40,10 @@ I am a programmer and software engineer. We will create applications, algorithm 
 
 ---
 ### 🌐 Connect with Me
-[![Twitter Logo](https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png) ](https://twitter.com/DAMIM_X_ADI)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/DAMIM_X_ADI)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/Damin_X_adi)
+
+[![Twitter](https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png)](https://twitter.com/DAMIM_X_ADI)
+[![Telegram](https://img.icons8.com/ios-filled/50/2CA5E0/telegram.png)](https://t.me/Damin_X_adi)
+
 
 ---
 
