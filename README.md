@@ -7,17 +7,32 @@ I am a programmer and software engineer. We will create applications, algorithm 
 
 ### 🚀 Skills
 <p align="center">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-    <img src="https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+    <a href="https://react.dev/" target="_blank">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+    </a>
+    <a href="https://reactnative.dev/" target="_blank">
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+    </a>
+    <a href="https://www.jetbrains.com/" target="_blank">
+        <img src="https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white"/>
+    </a>
+    <a href="https://nodejs.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+        <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+    </a>
+    <a href="https://isocpp.org/" target="_blank">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+    </a>
 </p>
 
----
 
 ### 🎯 Mastered Technologies and Topics
 <p align="center">
