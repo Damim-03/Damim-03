@@ -41,7 +41,7 @@ I am a programmer and software engineer. We will create applications, algorithm 
 ---
 ### 🌐 Connect with Me
 
-[![Twitter](https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png)](https://twitter.com/DAMIM_X_ADI)
+[![Twitter](https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png)](https://twitter.com/DamiRikRik)
 [![Telegram](https://img.icons8.com/ios-filled/50/2CA5E0/telegram.png)](https://t.me/Damin_X_adi)
 
 
