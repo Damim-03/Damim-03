@@ -48,7 +48,8 @@ I am a programmer and software engineer. We will create applications, algorithm 
 ---
 
 ### 💞️ Thank You So Much!
-![Kuru Kuru](https://media.tenor.com/hlKEXPvlX48AAAAi/kuru-kuru.gif)
+![Kuru Kuru](https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif)
+
 
 
 
