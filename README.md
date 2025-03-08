@@ -45,7 +45,6 @@ I am a programmer and software engineer. We will create applications, algorithm 
     <a href="https://kotlinlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/></a>
     <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
     <a href="https://vitejs.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40"/></a>
-    <a href="https://socket.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40"/></a>
     <a href="https://www.jetbrains.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>
     </a>
