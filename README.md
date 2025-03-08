@@ -41,7 +41,7 @@ I am a programmer and software engineer. We will create applications, algorithm 
 ---
 ### 🌐 Connect with Me
 
-<div style="display: flex; gap: 10px; align-items: center;">
+<div style="display: flex; gap: 20px; align-items: center;">
     <a href="https://twitter.com/DamiRikRik" target="_blank">
         <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter">
     </a>
@@ -49,6 +49,7 @@ I am a programmer and software engineer. We will create applications, algorithm 
         <img src="https://img.icons8.com/ios-filled/50/2CA5E0/telegram.png" alt="Telegram">
     </a>
 </div>
+
 
 
 
