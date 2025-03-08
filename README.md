@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/MyProf.jpg" width="100%" alt="Profile Image">
 
-## <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="10%"> 👋 Hi There, I’m @Damim_X_Adi <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="10%">
+## 👋 Hi There, I’m @Damim_X_Adi <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="10%">
 I am a programmer and software engineer. We will create applications, algorithm solutions, web page designs, and smartphone applications. We will use famous programming languages such as **React, React Native, TypeScript, JavaScript, Node.js, C, C++, and others**.
 
 ---
