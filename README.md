@@ -1,85 +1,89 @@
 <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/MyProf.jpg" width="100%" alt="Profile Image">
 
-## 👋 Hi There, I'm @Damim_X_Adi <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="30px">
-I'm a passionate programmer and software engineer specializing in creating applications, algorithm solutions, web designs, and mobile apps. My tech stack includes **React, React Native, TypeScript, JavaScript, Node.js, C, C++** and more.
+## 👋 Hi There, I’m @Damim_X_Adi <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="10%">
+I am a programmer and software engineer. We will create applications, algorithm solutions, web page designs, and smartphone applications. We will use famous programming languages such as **React, React Native, TypeScript, JavaScript, Node.js, C, C++, and others**.
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Skills
 <p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+    <a href="https://react.dev/" target="_blank">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+    </a>
+    <a href="https://reactnative.dev/" target="_blank">
+        <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat&logo=react&logoColor=black"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+    </a>
+    <a href="https://www.jetbrains.com/" target="_blank">
+        <img src="https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white"/>
+    </a>
+    <a href="https://nodejs.org/" target="_blank">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+    </a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+        <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
+    </a>
+    <a href="https://isocpp.org/" target="_blank">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+    </a>
+</p>
+
+
+### 🎯 Mastered Technologies and Topics
+<p align="center">
+    <a href="https://www.javascript.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
+    <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
+    <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/></a>
+    <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/></a>
+    <a href="https://www.npmjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/></a>
+    <a href="https://kotlinlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/></a>
+    <a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
+    <a href="https://vitejs.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40"/></a>
+    <a href="https://www.jetbrains.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/>
+    </a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank">
+        <img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" width="40" height="40"/>
+    </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+        <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="40" height="40"/>
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank">
+        <img src="https://resources.jetbrains.com/storage/products/intellij-idea/img/meta/intellij-idea_logo_300x300.png" width="40" height="40"/>
+    </a>
+</p>
+
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Damim-03&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damim-03&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damim-03&theme=radical" height="150"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🌐 Connect with Me
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Damim-03&show_icons=true&theme=radical" alt="GitHub Stats" height="160">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Damim-03&theme=radical" alt="GitHub Streak" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damim-03&layout=compact&theme=radical" alt="Top Languages" height="160">
-</p>
-
----
-
-### 🌟 Featured Projects
-<p align="center">
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damim-03&repo=repo-name&theme=radical" alt="Project 1" height="120">
+  <a href="https://twitter.com/DamiRikRik" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter">
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Damim-03&repo=repo-name&theme=radical" alt="Project 2" height="120">
+  <a href="https://t.me/Damin_X_adi" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/2CA5E0/telegram.png" alt="Telegram">
   </a>
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 💞️ Thank You So Much!
 <p align="center">
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.twitch.tv/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch">
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="mailto:youremail@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
----
-
-### 🎨 Contribution Graph
-<p align="center">
-  <img src="https://ghchart.rshah.org/00FF7F/Damim-03" alt="GitHub Contributions">
-</p>
-
----
-
-### ✨ Thanks for Visiting!
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="100px">
-  <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="100px">
-  <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="100px">
+  <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="20%">
+  <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="20%">
+  <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="20%">
 </p>
