@@ -70,34 +70,34 @@ I am a programmer and software engineer. We will create applications, algorithm 
 
 ---
 
-### 🌐 Connect with Me
-<p align="center">
+### 🌐 Connect With Me
+
+<p align="center" style="margin: 30px 0;">
   <!-- Twitter -->
-  <a href="https://twitter.com/DamiRikRik" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="40" alt="Twitter">
+  <a href="https://twitter.com/DamiRikRik" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="60" alt="Twitter">
   </a>
   
   <!-- Telegram -->
-  <a href="https://t.me/Damin_X_adi" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" width="40" alt="Telegram">
+  <a href="https://t.me/Damin_X_adi" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.icons8.com/fluency/96/000000/telegram-app.png" width="60" alt="Telegram">
   </a>
   
   <!-- Gmail -->
-  <a href="mailto:your.email@gmail.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail.png" width="40" alt="Gmail">
+  <a href="mailto:your.email@gmail.com" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="60" alt="Gmail">
   </a>
   
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60" alt="LinkedIn">
   </a>
   
   <!-- Outlook -->
-  <a href="mailto:your.email@outlook.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/fluency/48/000000/outlook.png" width="40" alt="Outlook">
+  <a href="mailto:your.email@outlook.com" target="_blank" style="margin: 0 20px;">
+    <img src="https://img.icons8.com/fluency/96/000000/outlook.png" width="60" alt="Outlook">
   </a>
 </p>
----
 
 ### 💞️ Thank You So Much!
 <p align="center">
