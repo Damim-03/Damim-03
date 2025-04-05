@@ -84,7 +84,7 @@ I am a programmer and software engineer. We will create applications, algorithm 
   </a>
   
   <!-- Gmail -->
-  <a href="mailto:your.email@gmail.com" target="_blank" style="margin: 0 30px;">
+  <a href="mailto:imadeddinekir95@gmail.com" target="_blank" style="margin: 0 30px;">
     <img src="https://img.icons8.com/fluency/96/000000/gmail.png" width="60" alt="Gmail">
   </a>
   
