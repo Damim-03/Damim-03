@@ -33,6 +33,7 @@ I am a programmer and software engineer. We will create applications, algorithm 
     </a>
 </p>
 
+---
 
 ### 🎯 Mastered Technologies and Topics
 <p align="center">
@@ -59,12 +60,43 @@ I am a programmer and software engineer. We will create applications, algorithm 
     </a>
 </p>
 
+---
 
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Damim-03&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damim-03&layout=compact&theme=radical" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damim-03&theme=radical" height="150"/>
+</p>
+
+---
+
+### 💻 GitHub Heatmap & Social Links
+
+<p align="center">
+  <!-- Skills Icons -->
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
+</p>
+
+<p align="center">
+  <!-- Social Buttons -->
+  <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/TWITCH-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+  <a href="https://discord.com/" target="_blank"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:youremail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://ghchart.rshah.org/00FF7F/Damim-03" alt="GitHub chart" />
 </p>
 
 ---
