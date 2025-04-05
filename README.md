@@ -65,6 +65,7 @@ I am a programmer and software engineer. We will create applications, algorithm 
   <img src="https://github-readme-stats.vercel.app/api?username=Damim-03&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damim-03&layout=compact&theme=radical" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damim-03&theme=radical" height="150"/>
+  <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
