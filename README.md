@@ -72,7 +72,7 @@ I am a programmer and software engineer. We will create applications, algorithm 
 
 ### 🌐 Connect With Me
 
-<p align="center" style="margin: 30px 0;">
+<p align="center" style="margin: 50px 0;">
   <!-- Twitter -->
   <a href="https://twitter.com/DamiRikRik" target="_blank" style="margin: 0 20px;">
     <img src="https://img.icons8.com/fluency/96/000000/twitter.png" width="60" alt="Twitter">
