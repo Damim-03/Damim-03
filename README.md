@@ -72,14 +72,25 @@ I am a programmer and software engineer. We will create applications, algorithm 
 
 ### 🌐 Connect with Me
 <p align="center">
+  <!-- Twitter -->
   <a href="https://twitter.com/DamiRikRik" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/twitter.png" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://twitter.com/DamiRikRik" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/gmail.png" alt="Gmail">
-  </a>
+  <!-- Telegram -->
   <a href="https://t.me/Damin_X_adi" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/2CA5E0/telegram.png" alt="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <!-- Gmail -->
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <!-- Outlook -->
+  <a href="mailto:your.email@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
   </a>
 </p>
 
