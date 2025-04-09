@@ -93,10 +93,6 @@ I am a programmer and software engineer. We will create applications, algorithm 
     <img src="https://img.icons8.com/fluency/96/000000/linkedin.png" width="60" alt="LinkedIn">
   </a>
   
-  <!-- Outlook -->
-  <a href="mailto:your.email@outlook.com" target="_blank" style="margin: 0 30px;">
-    <img src="https://img.icons8.com/fluency/96/000000/outlook.png" width="60" alt="Outlook">
-  </a>
 </p>
 
 ### 💞️ Thank You So Much!
