@@ -58,7 +58,7 @@ I am a programmer and software engineer. We will create applications, algorithm 
   <img src="https://github-readme-stats.vercel.app/api?username=Damim-03&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damim-03&layout=compact&theme=radical" height="150"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damim-03&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Damim-03&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Damim-03&theme=radical&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" height="220" alt="streak graph" />
 </p>
 
 ---
