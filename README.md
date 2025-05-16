@@ -6,7 +6,10 @@
 
 ###
 
-<h1 align="center">👋 Hi There, I’m @Damim\_X\_Adi <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="10%"></h1>
+<h1 align="center"> 
+  <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="10%"> 
+  👋 Hi There, I’m @Damim_X_Adi <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="10%">
+</h1>
 
 ###
 
