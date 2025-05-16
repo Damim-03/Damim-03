@@ -130,7 +130,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Damim-03/Damim-03/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Damim-03/Damim-03/output/snake.svg?palette=github-dark" alt="Snake animation" />
 
 ###
 
