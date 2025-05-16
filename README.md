@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/MyProf.jpg" width="100%" alt="Profile Image">
 
-<div align="center">
-   ## 👋 Hi There, I’m @Damim_X_Adi  
-</div>
-<img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="10%"/>
+## 👋 Hi There, I’m @Damim\_X\_Adi <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="10%">
+
+make it in center
+
 I am a programmer and software engineer. We will create applications, algorithm solutions, web page designs, and smartphone applications. We will use famous programming languages such as **React, React Native, TypeScript, JavaScript, Node.js, C, C++, and others**.
 
 ---
@@ -53,6 +53,9 @@ I am a programmer and software engineer. We will create applications, algorithm 
     <a href="https://vitejs.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40"/></a>
     <a href="https://www.jetbrains.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="40" height="40"/></a>
     <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
+   <a href="https://www.prisma.io/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" height="40"/>
+</a>
+
 </p>
 
 
