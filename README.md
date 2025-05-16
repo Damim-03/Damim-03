@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">👋 Hi There, I’m @Damim_X_Adi</h1>
+<h1 align="center">👋 Hi There, I’m @Damim\_X\_Adi <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="10%"></h1>
 
 ###
 
@@ -17,6 +17,27 @@
 <p align="left">I am a programmer and software engineer. We will create applications, algorithm solutions, web page designs, and smartphone applications. We will use famous programming languages such as React, React Native, TypeScript, JavaScript, Node.js, C, C++, and others.</p>
 
 ###
+
+### 🚀 Skills
+<p align="center"> 
+    <!-- Frontend --> 
+         <a href="https://react.dev/" target="_blank"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a> 
+         <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/></a> 
+         <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a> 
+         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
+                alt="JavaScript"/></a> 
+    <!-- Backend & DB --> 
+         <a href="https://nodejs.org/" target="_blank"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/></a> 
+         <a href="https://www.prisma.io/" target="_blank"> <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/></a> 
+         <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a> 
+    <!-- Languages --> 
+         <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a> 
+         <a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/></a> 
+    <!-- Tools --> 
+         <a href="https://www.jetbrains.com/" target="_blank"> <img src="https://img.shields.io/badge/JetBrains_IDE-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains"/></a> 
+</p>
+
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
