@@ -130,7 +130,7 @@
 
 <p align="center">
   <!-- 🐍 Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
+  <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/output/snake.svg" alt="Snake animation" width="800" />
 
   <br/>
 
@@ -138,10 +138,9 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Damim-03/Damim-03/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Damim-03/Damim-03/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Damim-03/Damim-03/output/pacman-contribution-graph.svg" style="max-width: 100%;" />
+    <img alt="Pacman eating contribution graph" src="https://raw.githubusercontent.com/Damim-03/Damim-03/output/pacman-contribution-graph.svg" width="800" />
   </picture>
 </p>
-
 ###
 
 <h3 align="left">🌐 Connect With Me</h3>
