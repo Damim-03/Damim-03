@@ -128,12 +128,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<img src="https://raw.githubusercontent.com/Damim-03/Damim-03/output/snake.svg" alt="Snake animation" />
-
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
