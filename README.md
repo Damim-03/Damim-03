@@ -126,21 +126,19 @@
 </table>
 
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">🔥   My Stats :</h3>
 
-<p align="center">
-  <!-- 🐍 Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/output/snake.svg" alt="Snake animation" style="max-width: 100%;" />
+###
 
-  <br/>
+<img src="https://raw.githubusercontent.com/Damim-03/Damim-03/output/snake.svg" alt="Snake animation" />
 
-  <!-- 🟡 Pacman Graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Damim-03/Damim-03/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Damim-03/Damim-03/output/pacman-contribution-graph.svg">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/Damim-03/Damim-03/output/pacman-contribution-graph.svg" style="max-width: 100%;" />
-  </picture>
-</p>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Damim-03/Damim-03/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Damim-03/Damim-03/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Damim-03/Damim-03/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
