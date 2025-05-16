@@ -6,7 +6,7 @@
 I am a programmer and software engineer. We will create applications, algorithm solutions, web page designs, and smartphone applications. We will use famous programming languages such as **React, React Native, TypeScript, JavaScript, Node.js, C, C++, and others**.
 
 ---
-
+### 🚀 Skills
 <p align="center"> 
     <!-- Frontend --> 
          <a href="https://react.dev/" target="_blank"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a> 
