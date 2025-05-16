@@ -67,7 +67,7 @@ I am a programmer and software engineer. We will create applications, algorithm 
       <img src="https://github-readme-stats.vercel.app/api?username=Damim-03&show_icons=true&theme=radical" height="220"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damim-03&layout=compact&theme=radical" height="220"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damim-03&layout=compact&theme=radical" height="240"/>
     </td>
   </tr>
   <tr>
