@@ -1,27 +1,22 @@
 <br clear="both">
 
 <div align="center">
-  <img height="600" src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/MyProf.jpg"  />
+  <img height="500" src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/MyProf.jpg"  />
 </div>
 
-###
 
 <h1 align="center"> 
   <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="10%"> 
   👋 Hi There, I’m @Damim_X_Adi <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="10%">
 </h1>
 
-###
-
 <h3 align="left">👩‍💻  About Me</h3>
-
-###
 
 <p align="left">I am a programmer and software engineer. We will create applications, algorithm solutions, web page designs, and smartphone applications. We will use famous programming languages such as React, React Native, TypeScript, JavaScript, Node.js, C, C++, and others.</p>
 
-###
 
-### 🚀 Skills
+
+🚀 Skills
 <p align="center"> 
     <!-- Frontend --> 
          <a href="https://react.dev/" target="_blank"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a> 
@@ -44,7 +39,6 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -102,7 +96,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
 </div>
 
-###
 
 <h3 align="left">📊 GitHub Stats</h3>
 
@@ -131,14 +124,11 @@
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" height="200"/>
 </picture>
 
-###
 
 <h3 align="left">🌐 Connect With Me</h3>
-
-###
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -150,7 +140,6 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
 </div>
 
-###
 
 <p align="left">💞️ Thank You So Much!</p>
 <p align="center">
@@ -158,4 +147,3 @@
   <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="20%">
   <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="20%">
 </p>
-###
