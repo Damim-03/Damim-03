@@ -147,8 +147,3 @@
   <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="20%">
   <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="20%">
 </p>
-
-<audio autoplay loop controls>
-    <source src="ssvid.net---Soothing-Breeze-asian-lofi.mp3" type="audio/mpeg">
-    متصفحك لا يدعم تشغيل الصوت
-  </audio>
