@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="500" src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/MyProf.jpg"  />
+  <img height="500" src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/New Project.png"  />
 </div>
 
 
