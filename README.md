@@ -3,10 +3,10 @@
 <div align="center">
   <img height="500" src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/New Project.png"  />
 </div>
-
+https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif
 
 <h1 align="center"> 
-  <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="10%"> 
+  <img src="https://tenor.com/view/toothless-dancing-toothless-dance-meme-meme-how-to-train-your-dragon-gif-15735082899997367911" width="10%"> 
   👋 Hi There, I’m @Damim_X_Adi <img src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/star-rail-kuru.gif" width="10%">
 </h1>
 
