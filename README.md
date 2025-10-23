@@ -5,8 +5,8 @@
 </div>
 
 <h1 align="center"> 
-  <img src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="30%"> 
-  👋 Hi There, I’m @Damim_X_Adi <img src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="10%">
+  <img src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="15%"> 
+  👋 Hi There, I’m @Damim_X_Adi <img src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="15%">
 </h1>
 
 <h3 align="left">👩‍💻  About Me</h3>
