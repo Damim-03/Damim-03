@@ -1,9 +1,5 @@
 <br clear="both">
 
-<div align="center">
-  <img height="500" src="https://raw.githubusercontent.com/Damim-03/Damim-03/main/New Project.png"  />
-</div>
-
 <h1 align="center"> 
   <img src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="15%"> 
   👋 Hi There, I’m @Damim_X_Adi <img src="https://media.tenor.com/2l4-h42qnmcAAAAj/toothless-dancing-toothless.gif" width="15%">
