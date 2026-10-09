@@ -8,13 +8,15 @@
 
 
 
+
 <p align="center">
   <img
-    src="./Sunset Field Photographer with Crop Sensors.png"
-    alt="Field Photography and IoT Crop Monitoring"
-    width="420"
+    src="./a_wide_cinematic_landscape_scene_at_golden_hour.png"
+    alt="Sunset Field Photographer with Crop Sensors"
+    width="100%"
   />
 </p>
+
 
 
 
