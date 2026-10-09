@@ -7,14 +7,15 @@
 </p>
 
 
+
 <p align="center">
   <img
     src="./Sunset%20Field%20Photographer%20with%20Crop%20Sensors.png"
-    alt="Photographing Crops with IoT Sensors at Sunset"
-    width="70%"
-    style="max-width: 800px; border-radius: 12px;"
+    alt="Field Photography and IoT Crop Monitoring"
+    width="420"
   />
 </p>
+
 
 
 ## 📌 About Me
