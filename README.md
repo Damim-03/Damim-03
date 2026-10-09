@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="./Sunset%20Field%20Photographer%20with%20Crop%20Sensors.png"
+    src="./Sunset Field Photographer with Crop Sensors.png"
     alt="Field Photography and IoT Crop Monitoring"
     width="420"
   />
