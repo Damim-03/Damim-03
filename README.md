@@ -6,7 +6,16 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
+
+<p align="center">
+  <img
+    src="./Sunset%20Field%20Photographer%20with%20Crop%20Sensors.png"
+    alt="Photographing Crops with IoT Sensors at Sunset"
+    width="70%"
+    style="max-width: 800px; border-radius: 12px;"
+  />
+</p>
+
 
 ## 📌 About Me
 - I am a programmer and software engineer. We will create applications, algorithm solutions, web page designs, and smartphone applications. We will use famous programming languages such as React, React Native, TypeScript, JavaScript, Node.js, C, C++, and others.
