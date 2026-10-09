@@ -9,13 +9,15 @@
 
 
 
+
 <p align="center">
   <img
-    src="./a_wide_cinematic_landscape_scene_at_golden_hour.png"
-    alt="Sunset Field Photographer with Crop Sensors"
+    src="./Sunset%20Field%20Photographer%20and%20Crop%20Sensors.png"
+    alt="Sunset Field Photographer and Crop Sensors"
     width="100%"
   />
 </p>
+
 
 
 
